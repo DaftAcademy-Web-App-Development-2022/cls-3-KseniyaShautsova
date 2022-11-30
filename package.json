@@ -48,5 +48,20 @@
     "prettier": "^2.7.1",
     "tailwindcss": "^3.1.2",
     "typescript": "4.7.2"
-  }
+  },
+  "name": "cls-3-kseniyashautsova",
+  "description": "![Daftacademy web app 2022](./cover.png?raw=true \"Daftacademy web app 2022\")",
+  "version": "1.0.0",
+  "main": "jest.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaftAcademy-Web-App-Development-2022/cls-3-KseniyaShautsova.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaftAcademy-Web-App-Development-2022/cls-3-KseniyaShautsova/issues"
+  },
+  "homepage": "https://github.com/DaftAcademy-Web-App-Development-2022/cls-3-KseniyaShautsova#readme"
 }

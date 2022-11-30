@@ -1,4 +1,4 @@
-import { NextApiRequest, NextApiResponse } from "next";
+ import { NextApiRequest, NextApiResponse } from "next";
 import { dbConnect } from "~/libraries/mongoose.library";
 import { Student } from "~/models/Student.model";
 
